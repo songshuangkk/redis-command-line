@@ -31,7 +31,7 @@ RedisClient.prototype.connect = () => {
    * create connect server
    */
    const options = {
-     host: '120.26.42.12',
+     host: '',
      port: 6379
    }
 
