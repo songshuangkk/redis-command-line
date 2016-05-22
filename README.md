@@ -3,7 +3,7 @@
 ### 安装
 
 ```javascript
-  npm install redis-command-line
+  npm install redis-command-line -g
 ```
 
 ### 使用
